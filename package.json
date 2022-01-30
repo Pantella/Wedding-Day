@@ -1,0 +1,34 @@
+{
+  "name": "weddingday",
+  "version": "1.0.0",
+  "description": "Save the Date and/or invitation for a wedding day",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass --watch src/scss:src/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pantella/Wedding-Day.git"
+  },
+  "keywords": [
+    "wedding",
+    "npm",
+    "bootstrap",
+    "sass",
+    "gsap"
+  ],
+  "author": "Giacomo Mantegazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pantella/Wedding-Day/issues"
+  },
+  "homepage": "https://github.com/Pantella/Wedding-Day#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "gsap": "^3.9.1"
+  },
+  "devDependencies": {
+    "sass": "^1.49.0"
+  }
+}
