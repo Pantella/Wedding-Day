@@ -1,1 +1,11 @@
+@use './cartoncino';
+@use './mainDocument';
+@use './header';
+
+@import './myVariables';
 @import './../../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+
+// OVERWRITE BOOTSTRAP VARIABLES
+

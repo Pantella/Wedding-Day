@@ -1,0 +1,10 @@
+@import './myVariables';
+
+.header-content {
+    height: 10vh;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+
+    background-color: $olive-green;
+}

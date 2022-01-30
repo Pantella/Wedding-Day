@@ -1,0 +1,32 @@
+@import './myVariables';
+
+.cartoncino-container {
+    height: 90vh;
+    
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+
+    .cartoncino {
+        width: 50vw;
+        height: 50vh;
+    
+        border-radius: 20px!important;
+    
+        background-color: $paper!important;
+    
+        text-align: center;
+    }
+
+    .cartoncino-content {
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: space-evenly;
+    }
+
+
+}
+
+
+
