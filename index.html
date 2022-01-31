@@ -9,15 +9,15 @@
 </head>
 <body>
     <header class="header-content">
-        <nav class="nav flex-column flex-md-row justify-content-evenly">
+        <nav class="nav flex-column flex-md-row justify-content-evenly" id="navigation">
             <div class="nav-item mx-auto">
-                <button type="button" class="btn" id="btn-cerimonia">Cerimonia</button>
+                <button type="button" class="btn" id="btn-cerimonia" data-action="cerimonia">Cerimonia</button>
             </div>
             <div class="nav-item mx-auto">
-                <button type="button" class="btn" id="btn-ricevimento">Ricevimento</button>
+                <button type="button" class="btn" id="btn-ricevimento" data-action="ricevimento">Ricevimento</button>
             </div>
             <div class="nav-item mx-auto">
-                <button type="button" class="btn" id="btn-sposi">Gli Sposi</button>
+                <button type="button" class="btn" id="btn-sposi" data-action="sposi">Gli Sposi</button>
             </div>
         </nav>
     </header>
@@ -30,6 +30,6 @@
             </section>
         </article>
     </main>
-    <script src="src/js/main.js"></script>
+    <script type="module" src="src/js/main.js"></script>
 </body>
 </html>
