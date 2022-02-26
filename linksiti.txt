@@ -1,2 +1,12 @@
 http://finallysexton.com/
-https://weddingcinema.club/git 
+https://weddingcinema.club/git
+
+Font:
+baskerville-display-pt
+
+Colors:
+--pink: #9d7f84;
+--gold: #b8ab9b;
+--dark-purple: #574e56;
+#212529;
+#666;
