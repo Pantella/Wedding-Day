@@ -24,9 +24,9 @@ function init() {
     // FRASI PER CAMBIO
     const frasiCerimonia = [
         'Sono lieti di invitarvi al loro matromonio che si terrà il', // Frase sottotitolo
-        '24 Giugno 2022 alle ore 15.30', // Frase testo 1
-        'presso la Chiesa "San Vittore Martire"', // Frase testo 2
-        'Piazza San Vittore, Ceriano Laghetto (MB)'  // Frase testo 3
+        '30 Settembre 2022 alle ore 15.30', // Frase testo 1
+        'presso la Chiesa di Don Abbondio', // Frase testo 2
+        'Nelle vicinanze di Lecco (Più o meno)'  // Frase testo 3
     ];
 
     const frasiRicevimento = [
